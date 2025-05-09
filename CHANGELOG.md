@@ -1,3 +1,7 @@
+## 0.17.0, May 09, 2025
+
+- Updated dependencies
+
 ## 0.16.2, May 09, 2025
 
 - Added a height parameter
