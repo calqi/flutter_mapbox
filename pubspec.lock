@@ -70,17 +70,19 @@ packages:
   mapbox_gl_platform_interface:
     dependency: "direct main"
     description:
-      path: mapbox_gl_platform_interface
-      relative: true
-    source: path
-    version: "0.16.0"
+      name: mapbox_gl_platform_interface
+      sha256: "0cb615f42947546d5aebc37fb94c4c5f053fcd675ea23f5c55c5ab065ca0e2b0"
+      url: "https://onepub.dev/api/jauppsdavu/"
+    source: hosted
+    version: "0.17.0"
   mapbox_gl_web:
     dependency: "direct main"
     description:
-      path: mapbox_gl_web
-      relative: true
-    source: path
-    version: "0.16.1"
+      name: mapbox_gl_web
+      sha256: ca991c7b603526e2e6853235ae7afcf55702b5e4f014af3e38a0255f61165fd9
+      url: "https://onepub.dev/api/jauppsdavu/"
+    source: hosted
+    version: "0.17.0"
   material_color_utilities:
     dependency: transitive
     description:
@@ -144,4 +146,4 @@ packages:
     version: "5.1.0"
 sdks:
   dart: ">=3.7.0-0 <4.0.0"
-  flutter: ">=2.0.0"
+  flutter: ">=3.13.0"
