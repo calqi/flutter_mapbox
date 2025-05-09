@@ -47,6 +47,7 @@ class MapboxWebGlPlatform extends MapboxGlPlatform
     ui_web.platformViewRegistry.registerViewFactory(
         'plugins.flutter.io/mapbox_gl_$identifier', (int viewId) {
       _mapElement = DivElement()
+        ..setInnerHtml('')
         ..style.position = 'absolute'
         ..style.top = '0'
         ..style.bottom = '0'

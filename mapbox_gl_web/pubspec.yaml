@@ -1,6 +1,6 @@
 name: mapbox_gl_web
 description: Web platform implementation of mapbox_gl
-version: 0.17.0
+version: 0.17.1
 homepage: https://github.com/tobrun/flutter-mapbox-gl
 publish_to: https://onepub.dev/api/jauppsdavu/
 

@@ -1,6 +1,10 @@
-## 0.17.0, May 09, 2025
+## 0.17.1, May 09, 2025
 
 - Updated dependencies
+
+## 0.17.0, May 09, 2025
+
+- Fixed need for empty element
 
 ## 0.16.1, May 09, 2025
 
