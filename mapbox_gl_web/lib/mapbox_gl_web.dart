@@ -1,3 +1,5 @@
+// ignore_for_file: deprecated_member_use
+
 library mapbox_gl_web;
 
 import 'dart:async';
@@ -9,7 +11,6 @@ import 'dart:html';
 import 'dart:js';
 import 'dart:js_util';
 import 'dart:math';
-import 'dart:typed_data';
 import 'dart:ui_web' as ui_web;
 import 'package:flutter/services.dart';
 
