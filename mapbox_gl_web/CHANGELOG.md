@@ -1,3 +1,7 @@
+## 0.16.2, May 09, 2025
+
+- Added a height parameter
+
 ## 0.16.1, May 09, 2025
 
 - Fix type issues to swithc to ui_web as ui.platformViewRegistry is deprecated
